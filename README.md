@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyamurangwa
 - 👀 I’m interested learning coding and web development
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning Software Engineering at ALX
 - 💞️ I’m looking to collaborate on a number of projects
 - 📫 How to reach me ...
 
